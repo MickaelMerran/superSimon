@@ -1,0 +1,35 @@
+body{
+    overflow: hidden;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin-top: 5px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.bleu{
+    background-color: blue;
+}
+
+.vert{
+    background-color: green;
+}
+
+.rouge{
+    background-color: red;
+}
+
+.jaune{
+    background-color: yellow;
+}
